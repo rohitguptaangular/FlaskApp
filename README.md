@@ -109,3 +109,4 @@ I set up two environments in the repo (Settings -> Environments):
 ## Screenshots
 
 Screenshots of both pipeline executions are in the `docs/` folder.
+# staging trigger
